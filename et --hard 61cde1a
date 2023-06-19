@@ -1,0 +1,267 @@
+[33mcommit 8774ec4b36a2b90ff13602da8adada103a63c0dc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AprilNEA <github@sku.moe>
+Date:   Tue Jun 6 00:31:26 2023 +0800
+
+    chore: remove lfs
+
+[33mcommit 61cde1ab648d553a337f5b6047c5795dd279c40a[m
+Merge: d9b877d 91cfae5
+Author: AprilNEA <github@sku.moe>
+Date:   Fri Jun 2 16:27:52 2023 +0800
+
+    Merge pull request #75 from tomridder/personal/tomridder/issue_fix_#74
+    
+    修复了点击获取验证码按钮也会触发注册按钮的逻辑的bug
+    添加 gitpod 支持
+
+[33mcommit d9b877dca1878eb87ec662bc1f5748c8d47b4e97[m
+Merge: 31eb0c7 a6df5aa
+Author: AprilNEA <github@sku.moe>
+Date:   Fri Jun 2 16:26:45 2023 +0800
+
+    Merge pull request #73 from tomridder/personal/tomridder/issue_fix_72
+    
+    修修复了付费后无论是monthly 还是quartly 还是yearly，截止日期都是一个月的时间的bug
+
+[33mcommit 31eb0c73074082d33c0dc14540f91f7e17fb3200[m
+Merge: 1570a33 6e43931
+Author: AprilNEA <github@sku.moe>
+Date:   Fri Jun 2 16:26:04 2023 +0800
+
+    Merge pull request #71 from tomridder/personal/tomridder/issue_fix_64
+    
+    修复了移动端页面跳转问题
+
+[33mcommit 91cfae5e0634871a6422b12f53aa126e2301fe1d[m
+Author: Lusk Ridder <1402709211@qq.com>
+Date:   Wed May 31 18:19:53 2023 +0000
+
+    修复了点击获取验证码按钮也会触发注册按钮的逻辑的bug
+
+[33mcommit a6df5aa1438bbbb6d4e746f5fdbb44f1dab79393[m
+Author: Lusk Ridder <1402709211@qq.com>
+Date:   Wed May 31 17:51:20 2023 +0000
+
+    修修复了付费后无论是monthly 还是quartly 还是yearly，截止日期都是一个月的时间的bug
+
+[33mcommit 6e4393145db02309ba0a71a8bd1c8e3926ee0969[m
+Author: Lusk Ridder <1402709211@qq.com>
+Date:   Wed May 31 17:25:19 2023 +0000
+
+    修复了移动端页面跳转问题
+
+[33mcommit 1570a33c37d21e7a9f7a64f140336120a39b731b[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 07:45:23 2023 +0800
+
+    fix(dash): fix dash area
+
+[33mcommit cdf4d7d19f92fd73a1f267c460ae2d9a22ab322f[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 07:32:04 2023 +0800
+
+    feat(dash): add plan columns
+
+[33mcommit 4a55dc959b613da48fd60e73cad28c822352c506[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 07:26:42 2023 +0800
+
+    chore(dash): upgrade next @13.4.2
+
+[33mcommit 30e0c72ee88f300bde7212dd931bfb4626d3be37[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:47:44 2023 +0800
+
+    feat(dash): add setting page in menu
+
+[33mcommit 1b9d03a89a6f316553b759e5d0c8ae1927316a04[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:47:27 2023 +0800
+
+    fix(dash): type fixed for TS2345 and error implicitly
+
+[33mcommit f3d5bf3b451407337f0a3170d5c3aeecef05867a[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:46:53 2023 +0800
+
+    fix(dash): change config into runtime export
+
+[33mcommit 82646a7b05e1f6fff04496046a9ea06594bc8ce4[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:46:39 2023 +0800
+
+    fix(dash): type fixed TS2345 in route
+
+[33mcommit c9e570df639ab8e9270c7103974a74afdbe6a38f[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:46:18 2023 +0800
+
+    fix(dash): type fixed TS2345
+
+[33mcommit 623997958e8614bd8b1e6cd406b3988dcede5c18[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:46:07 2023 +0800
+
+    fix(dash): type fixed
+
+[33mcommit f3894a8bc234c5949265ce48bc4f6f17338fa716[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:25:42 2023 +0800
+
+    chore(eslint): share eslint config
+
+[33mcommit 74ca7b1a0e2af7e85132ce92a14b4777175702c6[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:25:11 2023 +0800
+
+    feat(dash): update setting page and add plan setting
+
+[33mcommit 5001d489cab1e8b58676d91a9316caa9f297ef60[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:24:50 2023 +0800
+
+    feat(dash): update homepage style.
+
+[33mcommit 047f773add58ab93e1ae0904b1fc3a0fd6bebca8[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:24:16 2023 +0800
+
+    fix(database): add listValuesOfKeys in planDAL
+
+[33mcommit 66f021ca535e1b44d2717adbe9502168ad8297cf[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:23:52 2023 +0800
+
+    feat(chat&dash): accept the expired time in invocation
+
+[33mcommit f10f443ed114782b6fc8c54caef84debe75de623[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:23:06 2023 +0800
+
+    feat(dash): viewing and adding subscription plans.
+
+[33mcommit fa5377329ca0d6169f37719bf7fa7133a659cf49[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sun May 14 02:22:22 2023 +0800
+
+    feat(dash): add expiration time for local validation
+
+[33mcommit be3ed4a12aa9b4c26b979f98f2834a91ff700b02[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sat May 13 11:20:07 2023 +0800
+
+    style(chat): remove token log in middleware
+
+[33mcommit 273048bac7ad742097d22507a6fe167c6096bdcf[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sat May 13 11:19:20 2023 +0800
+
+    fix(dal): fix reset logic #49
+
+[33mcommit 069fa13b77a806835f3274a2da3591324899d077[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sat May 13 01:10:46 2023 +0800
+
+    refactor(chat): fix reset logic #49
+
+[33mcommit aa59ee0d86440d44f55119ac42685f9c3c8e0bef[m
+Author: AprilNEA <github@sku.moe>
+Date:   Sat May 13 01:07:41 2023 +0800
+
+    fix(chat): close #46
+
+[33mcommit af956abd1dc9126a52a06ae0b7c237380d577aaa[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 15:42:57 2023 +0800
+
+    fix(chat): fix #42 close CAW-22
+
+[33mcommit 74b020956b5e050c8fe259332f295845fe96a151[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 07:28:10 2023 +0800
+
+    refactor(chat): refactor settings, pricing page, add subscription table
+
+[33mcommit 1eb06dd012103e00e8910707980a138b60614174[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 07:26:14 2023 +0800
+
+    feat(chat): add notice dal
+
+[33mcommit 34bd1a52b4764bbfcc68fe8f84c752b53ed339a3[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 07:25:01 2023 +0800
+
+    fix(chat): hide the verification code when email service is not enabled
+
+[33mcommit de288310bb0ba0bd274df8f3f3611196bf945c49[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 07:24:34 2023 +0800
+
+    fix(chat): correct typo
+
+[33mcommit da14b3d9b91e60d94085b524396d3f07225aead0[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:38:02 2023 +0800
+
+    feat(chat): refactor the user information acquisition process
+
+[33mcommit 1a376d510b8a55ca971ea90a9ef19149bf017a2b[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:36:42 2023 +0800
+
+    feat(chat): add subscription form
+
+[33mcommit 76362b5905914ce599fd0fbe8302b382de7f019d[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:36:12 2023 +0800
+
+    refactor(chat): refactor user information routing
+
+[33mcommit bd55c51ffa126e82bd81cca417247f1fbc325862[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:35:26 2023 +0800
+
+    feat(chat): notice route
+
+[33mcommit 7b64d2074ba1aa2e1f841f792803c9fef4ff4ff3[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:35:14 2023 +0800
+
+    feat(chat): add swr provider and notice provider
+
+[33mcommit 897fd147d2b2b946c8e507fe7e51e81477a7f9b2[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:34:53 2023 +0800
+
+    chore(chat): add clean scripts
+
+[33mcommit ad68ecab24386cf35863118a7f222fe5c856981e[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 06:34:23 2023 +0800
+
+    feat(chat): add global notice
+
+[33mcommit 09260e515a7f5cdceb9f1c123afee204d57355bf[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 03:42:22 2023 +0800
+
+    fix(chat): prevent environment variables from not being set
+
+[33mcommit ea9accd92f6440f4886db7bfb30b96f914d6642f[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 03:41:02 2023 +0800
+
+    fix(chat): use shallow copy when updating settings
+
+[33mcommit aece9d5585881d004d04077ecdaf2229cba21fa1[m
+Author: AprilNEA <github@sku.moe>
+Date:   Fri May 12 02:36:42 2023 +0800
+
+    perf(chat): router use edge for all
+
+[33mcommit 3723765a883ee576f0c7431b2123ddd2f4dcd4f5[m
+Author: AprilNEA <github@sku.moe>
+Date:   Wed May 10 22:19:54 2023 +0800
+
+    feat(docs): add sync upstream explana
